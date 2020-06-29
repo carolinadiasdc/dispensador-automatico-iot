@@ -36,7 +36,7 @@ Este projeto tem como objetivo desenvolver um sistema de Dispensador de álcool 
 # Fotos
 ![](https://github.com/carolinadiasdc/projeto_iot_/blob/master/Prototipo_1.jpeg)
 
-![](
+![](https://github.com/carolinadiasdc/projeto_iot_/blob/master/Circuito_1.jpeg)
 
 # Fluxograma
 ![](https://github.com/carolinadiasdc/projeto_iot_/blob/master/arq_dispensador.png)
