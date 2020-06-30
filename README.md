@@ -40,8 +40,6 @@ Este projeto tem como objetivo desenvolver um sistema de Dispensador de álcool 
 # Fluxograma de funcionamento
 ![](https://github.com/carolinadiasdc/projeto_iot_/blob/master/Fluxograma%20de%20funcionamento.jpeg)
 
-# Vídeo
-![](https://youtu.be/9WOTuwwFlvk)
 
 
 
